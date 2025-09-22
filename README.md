@@ -1,6 +1,6 @@
-Deadline: 11:00PM Monday January 30th, 2025
+Deadline: 11:59PM Thursday September 25th, 2025
 
-# 🚀 VandyHacks Dev Assessment 2023 🚀
+# 🚀 VandyHacks Dev Assessment 2025 🚀
 
 Thank you for expressing interest in the VandyHacks Dev Committee! VH dev is a committee for those who are passionate about the development side of VandyHacks. We have a decade-long history of creating a variety of apps and software, thanks to the self-motivated and committed VandyHacks students who, like you, were once applicants!
 
@@ -39,7 +39,7 @@ A: Now!
 
 **Q: When is the deadline?**
 
-A: Deadline: 11:00PM Monday January 30th, 2023. No further commits will be accepted after that.
+A: Deadline: 11:59PM Thursday September 25th, 2025. No further commits will be accepted after that.
 
 **Q: What resources can I use?**
 
