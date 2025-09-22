@@ -31,7 +31,7 @@ If you choose to take on this challenge, then the folder that should concern you
 
 ## Questions
 
-Have any questions? See if these would help answer them. If not, email us at jia.yin.leong@vanderbilt.edu (Adaline) and zi.nean.teoh@vanderbilt.edu (Zi) -- we are more than happy to help you out!
+Have any questions? See if these would help answer them. If not, email us at subha.b.mostafiz@vanderbilt.edu -- we are more than happy to help you out!
 
 **Q: When can I start?**
 
