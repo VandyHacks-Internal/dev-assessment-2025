@@ -1,4 +1,4 @@
-Deadline: 11:00PM Monday January 30th, 2023
+Deadline: 11:00PM Monday January 30th, 2025
 
 # 🚀 VandyHacks Dev Assessment 2023 🚀
 
