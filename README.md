@@ -14,20 +14,11 @@ As VandyHacks' dev committee, we value the spirit of hackathons, and we are acti
 
 This is why we have decided to step outside of the convention and spice things up for this year's dev takehome assessment!
 
-**You have the option to choose from the following two challenges this year:**
-
-1. Complete a series of coding problems that test your problem-solving skills.
-2. Build a minimal software/app that you think VandyHacks will benefit from.
-
 Good luck and all the best!
 
-## Option 1: Coding Problems
+Build a minimal app
 
-If you choose to take on this challenge, then the folders that should concern you is [option1](option1). Head to [option1/README.md](option1/README.md) to read more about the challenges.
-
-## Option 2: Build a minimal app
-
-If you choose to take on this challenge, then the folder that should concern you is [option2](option2). Head to [option2/README.md](option2/README.md) to read more about the challenge.
+If you take on this challenge, then the folder that should concern you is [option2](option2). Head to [option2/README.md](option2/README.md) to read more about the challenge.
 
 ## Questions
 
@@ -61,7 +52,7 @@ A: You can either go with the language you are most comfortable with, or take th
 
 **Q: How will I be graded?**
 
-A: For both options, we will grade on:
+A: We will grade on:
 
 -   Code Organization & Readability
     -   How well do you structure your code?
@@ -71,15 +62,8 @@ A: For both options, we will grade on:
     -   Do you write comments when appropriate?
 -   Language Used
 
-To learn about the specifics of how grading works for the option you choose, read the `option1/README.md` or `option2/README.md`, respectively!
+To learn about the specifics of how grading works for the option you choose, read the `option2/README.md`, respectively!
 
-**Q: Which option should I choose?**
-
-A: It is up to you! Both options will test your abilities, but one may align better with your strengths. We recommend that you choose the option that you feel most confident and excited about!
-
-**Q: Will I have an advantage for choosing option (1/2) over the other?**
-
-A: It's a bit of both, yes and no. Yes because, in the event where we have a large pool of applicants, we may consider the options chosen and whether one's submission stands out more in comparison to others. No because we also consider other aspects such as your application and interview.
 
 **Q: What should I expect after I completed this challenge?**
 
