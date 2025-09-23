@@ -46,10 +46,4 @@ If you need any assistance on this, please reach out to us!
 A: We recommend starting with level1 and working your way up!
 
 **Q: Who can I ask for help?**
-
-A: If you have any clarifications or questions related to the challenges, reach out to us (we made the problems so we _definitely_ can help you out 😤):
-
--   abi.kothapalli@vanderbilt.edu (Abi)
--   jia.yin.leong@vanderbilt.edu (Adaline)
--   sneh.r.patel@vanderbilt.edu (Sneh)
--   zi.nean.teoh@vanderbilt.edu (Zi)
+= Just email subha.b.mostafiz@vanderbilt.edu
